@@ -55,7 +55,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
          tableviewopciones.isHidden = true
         }
 */
-    
+    //este comentario no sirve para nada
         func obtendatos(){
     
             let urlString : String = "https://www.liverpool.com.mx/tienda?s=\(txtabuscar)&d3106047a194921c01969dfdec083925=json"
